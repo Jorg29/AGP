@@ -1,6 +1,8 @@
 # AGP
 exercises and tasks in python
 
+files in laboratory
+
 1)Write a program that calculates the first 10 digits of the result of the following operation: square(2^(101)/pi ^(53) 11^7)
 
 2)Write a program that displays for the string "How I need a drink alcoholic of course, after all those lectures involving quantum mechanics" the number of characters of each word.
