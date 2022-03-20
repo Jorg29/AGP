@@ -1,3 +1,5 @@
+#3)Write a program that calculates the sum 1 + 1/2 + 1/4 + 1/8 + ... where the user will give the number of terms of the sum.
+Ensure with defensive programming that the value given by the user is a non-negative integer value, otherwise the value will be re-entered.
 n=int(input("Enter the number of terms: "))
 sum1=0
 if n<0:
