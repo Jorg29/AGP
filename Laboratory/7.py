@@ -1,4 +1,5 @@
-#Write a function that accepts text, removes period and comma symbols, locates the longest word length it contains, and returns a list of all words in the text with a length equal to the longest.
+#Write a function that accepts text, removes period and comma symbols, locates the longest word length it contains,
+#and returns a list of all words in the text with a length equal to the longest.
 
 import unittest
 
