@@ -1,3 +1,5 @@
+#4)Command import this in IDLE and copy the returned text into a word. Write a program that displays the number of observations of the characters A to Z,
+#without distinguishing between lowercase and uppercase, in the text above.
 from collections import Counter
 
 word = '''
